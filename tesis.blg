@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'tesis.blg'
+[66] biber-MSWIN64:322> INFO - === 
+[85] Biber.pm:415> INFO - Reading 'tesis.bcf'
+[211] Biber.pm:943> INFO - Found 22 citekeys in bib section 0
+[228] Biber.pm:4256> INFO - Processing section 0
+[229] Utils.pm:75> INFO - Globbing data source 'biblio/references.bib'
+[237] Utils.pm:91> INFO - Globbed data source 'biblio/references.bib' to biblio/references.bib
+[252] Biber.pm:4455> INFO - Looking for bibtex format file 'biblio/references.bib' for section 0
+[255] bibtex.pm:1653> INFO - LaTeX decoding ...
+[285] bibtex.pm:1471> INFO - Found BibTeX data source 'biblio/references.bib'
+[313] Utils.pm:304> WARN - month field 'February' in entry 'cu_ministerioPeru_statsminas' is not an integer - this will probably not sort properly.
+[316] Utils.pm:304> WARN - month field 'October' in entry 'cu_lagos2017proyectar' is not an integer - this will probably not sort properly.
+[425] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[425] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[425] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[455] bbl.pm:652> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[468] bbl.pm:755> INFO - Output to tesis.bbl
+[469] Biber.pm:128> INFO - WARNINGS: 2
